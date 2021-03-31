@@ -1,1 +1,1 @@
-# javascript-quiz
+# interactive-quiz
